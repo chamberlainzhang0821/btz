@@ -11,7 +11,7 @@ I am generally interested in **High-Dimensional Statistics**, **Stochastic Proce
 
 Here is my [CV](cv.pdf) and [GitHub](https://github.com/chamberlainzhang0821).
 
-My email is chambertin0821@berkeley.edu.
+My email is chambertin0821 at berkeley dot edu.
 :::
 
 ::: {.column width="3%"}
