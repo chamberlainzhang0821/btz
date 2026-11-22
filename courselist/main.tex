@@ -1,0 +1,245 @@
+% \documentclass[12pt,oneside]{amsart}
+\documentclass{scrartcl}
+
+%\documentclass{article}
+
+\usepackage{amsthm,amsmath,amssymb}
+% \usepackage[numbers]{natbib}
+
+%\usepackage[colorlinks]{hyperref}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,%
+    citecolor=black,%
+    filecolor=black,%
+    linkcolor=black,%
+    urlcolor=black
+}
+\usepackage{hypernat}
+\usepackage[top=2.5cm, bottom=2.5cm, left=2.8cm,
+right=2.8cm]{geometry}
+\usepackage{graphicx} 
+\usepackage{pdfpages}
+
+%\setlength{\parskip}{0pt}
+%\setlength{\parsep}{0pt}
+%\setlength{\headsep}{0pt}
+%\setlength{\topskip}{0pt}
+%\setlength{\topmargin}{0pt}
+%\setlength{\topsep}{0pt}
+%\setlength{\partopsep}{0pt}
+
+\linespread{1}
+
+%\usepackage{marvosym}
+
+%\textwidth = 6.5 in \textheight = 9.2 in \oddsidemargin = 0.0 in
+%\evensidemargin = 0.0 in \topmargin = -0.0 in \headheight = 0.0 in
+%\headsep = 0.0in \parskip = 0.0in \parindent = 0.0in
+%\def\baselinestretch{0.871}
+
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{problem}[theorem]{Problem}
+\newtheorem{fact}[theorem]{Fact}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{defn}[theorem]{Definition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{remark}{Remark}[section]
+\newtheorem{example}[theorem]{Example}
+
+\newcommand{\E}{{\mathbb E}}
+\newcommand{\se}{{\mathcal{E}}}
+\newcommand{\R}{{\mathbb R}}
+\renewcommand{\P}{{\mathbb P}}
+\newcommand{\ac}{{\mathcal{A}}}
+\newcommand{\A}{{\mathcal{A}}}
+\newcommand{\B}{{\mathcal{B}}}
+\newcommand{\C}{{\mathcal{C}}}
+\newcommand{\M}{{\mathcal{M}}}
+\newcommand{\Mf}{{\mathfrak{M}}}
+\newcommand{\T}{{\mathcal{T}}}
+\newcommand{\Z}{{\mathcal{Z}}}
+\newcommand{\K}{{\mathcal{K}}}
+\newcommand{\lc}{{\mathcal{L}}}
+\newcommand{\Ps}{{\mathcal{P}}}
+\newcommand{\G}{{\mathcal{G}}}
+\newcommand{\pa}{{\mathring{p}}}
+\newcommand{\F}{{\cal F}}
+\newcommand{\samp}{{\mathcal{X}}}
+\newcommand{\X}{{\mathcal{X}}}
+\newcommand{\hi}{{\hat{\Phi}}}
+\newcommand{\data}{{\text{data}}}
+
+\newcounter{rcnt}[section]
+\renewcommand{\thercnt}{(\roman{rcnt})}
+
+\def\qt#1{\qquad\text{#1}}
+
+\def\argmin{\mathop{\rm argmin}}
+\def\argmax{\mathop{\rm argmax}}
+
+
+\setlength{\parskip}{1.4 \medskipamount}
+%\sloppy
+%\linespread{1.3}
+
+\begin{document}
+
+\title{Course List} 
+% \subtitle{Fall 2026, UC Berkeley}
+\author{Boting Zhang}
+\date{}
+\maketitle
+
+\textbf{Course Taken:}
+\begin{enumerate}
+    \item \textbf{MAT 102 \& MAT 103 Calculus I, II}
+    \\Main Contents: Limits, Derivatives, Integrals, Series, Multivariable Calculus, Vector Calculus.
+    \\Reference: James Stewart, \textit{Calculus: Early Transcendentals}, 8th Edition, Cengage Learning, 2015.
+    \item \textbf{MAT 104 \& MAT 105 Linear Algebra I, II}
+    \\Main Contents: Vector Spaces, Linear Transformations, Eigenvalues and Eigenvectors, 
+    Inner Product Spaces, Diagonalization and Quadratic Forms, Jordan Canonical Form, Numerical Methods.
+    \\Reference: Howard Anton, \textit{Elementary Linear Algebra}, 11th Edition, Wiley, 2013.
+    \item \textbf{MAT 107 Probability Theory}
+    \\Main Contents: Probability Spaces, Random Variables, Expectation and Variance, Continuous Random Variables, 
+    Joint Distributions, Limit Theorems.
+    \\Reference: Sheldon Ross, \textit{A First Course in Probability}, 10th Edition, Pearson, 2018.
+    \item \textbf{MAT 109 Ordinary Differential Equations (ODEs)}
+    \\Main Contents: First-Order ODEs, Second-Order ODEs, Systems of ODEs, Laplace Transforms, Series Solutions,
+    \\Reference: Boyce, DiPrima, \textit{Elementary Differential Equations and Boundary Value Problems}, 10th Edition, Wiley, 2012.
+    \item \textbf{MAT 106 Discrete Mathematics}
+    \\Main Contents: Logic and Proofs, Set Theory, Counting, Relations, Number Theory, Algorithms.
+    \\Reference: Kenneth H. Rosen, \textit{Discrete Mathematics and Its Applications}, 7th Edition, McGraw-Hill, 2011.
+    \item \textbf{MAT 101 Algebra and Analytic Geometry}
+    \\Main Contents: Number systems, polynomials, sequences and series, partial 
+    fractions, complex numbers, polar coordinates, parametric curves, conics, 
+    geometry of three space.
+    \\Reference: Julie Miller and Donna Gerken, \textit{College Algebra}, McGraw-Hill, 2023.
+    \\James Stewart, Daniel K. Clegg and Saleem Watson, \textit{Calculus: Early Transcendentals}, Cengage Learning, 2020. 
+    \item \textbf{BSC 135 Python Programming}
+\end{enumerate}
+\newpage
+
+
+\textbf{Course Taking:}
+\begin{enumerate}
+    \item \textbf{MATH 126 Introduction to Partial Differential Equations (PDEs)}
+    \\Main Contents: First-Order PDEs, Wave, Heat and Laplace equations, Fourier Series.
+    \\Reference: 
+    Borthwick, \textit{Introduction to Partial Differential Equations}, 2nd Edition, Springer, 2016.
+    \\
+    Lawrence C. Evans, \textit{Partial Differential Equations}, 2nd Edition, American Mathematical Society, 2010.
+    \item \textbf{MATH 118 Fourier Analysis, Wavelets, and Signal Processing}
+    \\Main Contents: Fourier Series, Fourier Transform, Wavelet Transform, Signal Processing Applications.
+    \\Reference: Boggess and Narcowich, \textit{A First Course in Wavelets with Fourier Analysis}, 2nd Edition, Wiley, 2009.
+    \item \textbf{STAT 248 Analysis of Time Series}
+    \\Main Contents: Regressions, Spectral Analysis, ARIMA Models, Multivariate Time Series, Neural Networks.
+    \\Reference: Shumway and Stoffer, \textit{Time Series Analysis and Its Applications: With R Examples}, 4th Edition, Springer, 2017.
+\end{enumerate}
+
+
+\newpage
+\textbf{Course Want to take:}
+\\2027 Spring
+\begin{enumerate}
+    \item \textbf{Mathematical Analysis I}
+    \\Reference: Walter Rudin, \textit{Principles of Mathematical Analysis}, 3rd Edition.
+    \item \textbf{Abstract Algebra}
+    \\Reference: Michael Artin, \textit{Algebra}, 2nd Edition, Pearson, 2011.
+    \item \textbf{Statistics}
+    \item \textbf{Major Electives(ME): C++} 
+\end{enumerate}
+
+
+2027 Fall:
+\begin{enumerate}
+    \item \textbf{Mathematical Analysis II}
+    \\Reference: Walter Rudin, \textit{Principles of Mathematical Analysis}, 3rd Edition.
+    \item \textbf{Complex Analysis}
+    \item \textbf{ME: Advanced Linear Algebra}
+    \\Main Contents:  Abstract
+vector spaces, linear transformations, the algebra of polynomials,
+determinants and permutations, elementary canonical forms,
+invariant subspaces, simultaneous triangulation, simultaneous
+diagonalization, rational form, Jordan form, linear functionals and
+adjoints, unitary operators, normal operators, operators on inner
+product spaces, spectral theory, bilinear forms.
+    \item \textbf{ME: Data Structures} \label{sec:ME:Data Structures}
+\end{enumerate}
+
+
+
+
+2028 Spring:
+\begin{enumerate}
+    \item \textbf{ME: Real Analysis}
+    \\Main Contents: Functions of bounded variations, Riemann-Stieltjes
+integrals, Lebesgue measure and outer measure on $\R^n$, Lebesgue
+measurable sets, Lebesgue measurable functions, convergence in
+measure, Lebesgue integrals, relations between Lebesgue integral
+and Riemann-Stieltjes integral, Fubini's theorem, Tonelli's theorem,
+Lebesgue's differentiation theorem, Vitali covering lemma, $L^p$
+classes, Holder's inequality, Minkowski's inequality, Banach space,
+metric space, Hilbert space, approximations of the identity,
+Hardy-Littlewood maximal function
+    \item \textbf{ME: Algebraic Topology}
+    \\Main Contents: Fundamental
+group, van Kampen theorem, covering spaces, deck
+transformations, simplicial homology, singular homology, exact
+sequences, Mayer-Vietoris sequences, cohomology, K¨unneth
+formula, Poincar´e duality, homotopy group, Whitehead’s theorem,
+fibre bundles.
+    \item \textbf{ME: Design and Analysis of Algorithms}
+    \\Main Contents: Introduction to algorithms, asymptotic analysis,
+Analyzing Algorithms, probabilistic analysis, amortized analysis,
+empirical analysis, recursive algorithm and recursive equation,
+divide-and-conquer algorithms, dynamic programming, greedy
+algorithms, graph algorithms, and NP-complete theory,
+Backtracking, Branch and Bound.
+    \item \textbf{ME: Differential Manifolds}
+    \\Main Contents: Definitions and examples of manifolds, tangent spaces, partitions of
+unity, tangent bundles, vector fields, Lie brackets, differential
+forms, orientability, manifolds with boundary, integration on
+manifolds, Stokes' theorem on manifolds, and a brief introduction
+to Lie groups and Lie algebras.
+    \item \textbf{Final Year Project}
+\end{enumerate}
+
+2028 Fall:
+\begin{enumerate}
+    \item \textbf{ME: Mechanics}
+    \item \textbf{ME: Numerical Analysis} or \textbf{ME: Stochastic Processes}
+    \\Main Contents(Numerical Analysis): Newton-Raphson method, zeros of polynomials,
+interpolation by Lagrange polynomials, Hermite interpolation,
+cubic spline interpolation, numerical differentiation, numerical
+integration, Runge-Kutta methods, stability, solving linear systems,
+approximation theory, shooting method, finite-difference method.
+    \\Main Contents(Stochastic Processes):Markov chains, exponential distributions,
+Poisson processes, continuous time Markov chains, renewal theory,
+queueing theory, reliability theory, Brownian motions, stationary
+processes.
+    \item \textbf{Final Year Project}
+\end{enumerate}    
+    
+
+
+\newpage
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
