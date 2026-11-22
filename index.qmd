@@ -42,12 +42,12 @@ Here are the research projects I am currently working on at the University of Ca
 
 # Projects
 * **Tridiagonal Spline Systems \& Atmospheric $\text{CO}_2$ Modeling**
+  * *Class project, ([GitHub](https://github.com/chamberlainzhang0821/linear_algebra_project/blob/main/main.pdf))*
 
-  * Class project, ([GitHub](https://github.com/chamberlainzhang0821/linear_algebra_project/blob/main/main.pdf))
+<div style="height: 10px;"></div>
 
 * **Pricing Perpetual American Options via Free-Boundary ODEs**
-
-  * Class project, ([GitHub](https://github.com/chamberlainzhang0821/ODE_for_Financial_Engineering/blob/main/main.pdf))
+  * *Class project, ([GitHub](https://github.com/chamberlainzhang0821/ODE_for_Financial_Engineering/blob/main/main.pdf))*
 
 
 # Honors and Awards
