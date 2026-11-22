@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Boting Zhang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/chamberlainzhang0821
+      - icon: envelope
+        text: Email 1
+        href: mailto:chambertin0821@berkeley.edu
+      - icon: envelope
+        text: Email 2
+        href: mailto:eng2409017@xmu.edu.my
+      - icon: envelope
+        text: Email 3       
+        href: mailto:zhangboting0821@outlook.com
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

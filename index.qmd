@@ -1,0 +1,44 @@
+---
+title: "Boting Zhang(张柏霆)"
+image: profile.JPG
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/chamberlainzhang0821
+    - icon: envelope
+      text: Email
+        href: mailto: chambertin0821@berkeley.edu
+        href: mailto: eng2409017@xmu.edu.my
+        href: mailto: zhangboting0821@outlook.com
+---
+
+## About Me
+
+I am currently an exchange undergraduate student majoring in Mathematics and Applied Mathematics at University of California, Berkeley. My research generally focuses on **High-dimensional Statistic**, **Stochastic Process**, **PDEs** and **Computational Topology**, combining computational methods with empirical analysis.
+
+
+
+Beyond as an exchange student, I am an undergraduate student in Mathematics and Applied Mathematics at Xiamen University Malaysia.
+
+---
+## Current Projects
+
+Here are the research projects I am currently working on at the University of California, Berkeley:
+
+* **GRiD Project: Statistical Modeling for Multimodal Learning Analytics** — *ERDL Lab, UC Berkeley*
+  * *Supervised by [Ratih Ayu Apsari](https://bse.berkeley.edu/ratih-ayu-apsari)*
+  * **Multivariate Time-Series & Spectral Modeling:** Formulates parametrized eye-tracking recordings as regularized multivariate time series, applying autoregressive (AR/VAR) modeling, spectral analysis, and time-frequency decomposition to capture multi-scale dynamics in fixation rates and gaze kinematics.
+  * **Hierarchical Spatial & Markov Transition Dynamics:** Characterizes gaze trajectories across hierarchical Areas of Interest (AOIs) via 1-second and embedded jump-chain Markov processes, higher-order $n$-step motif significance testing, and stationary-baseline overlap tests to separate coordinated multi-participant joint visual attention from coincidental co-occurrence.
+  * **Time-Aligned Linguistic & Behavioral Encoding:** Uses natural language processing (NLP) and behavioral annotation to encode verbal explanations, discourse transitions, and non-verbal cues into synchronized temporal feature sequences.
+  * **Cross-Modal Synchronization & Cognitive Shift Detection:** Evaluates spectral coherence and dynamic coupling across gaze kinematics, spatial transitions, and linguistic streams to uncover measurable signatures of cognitive shifts during mathematical and embodied reasoning tasks.
+
+* **Estimation Method Project: Diagnostic Classification Models (DCMs)** — *D-Lab, UC Berkeley*
+  * *Supervised by [Jonathon A. Pedroza (JP)](https://dlab.berkeley.edu/people/jonathan-pedroza-jp)*
+  * **Conjunctive & Disjunctive Model Formulation:** Formulates and compares DINA (AND-rule) and DINO (OR-rule) diagnostic classification models across a $2^K$ latent attribute space induced by a prespecified $Q$-matrix, contrasting unrestricted item-specific slipping and guessing parameters against restricted common-error variants (rDINA and rDINO).
+  * **Comparative Estimation & Bayesian Inference:** Expresses marginalized item responses as a finite-mixture likelihood and benchmarks Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP) estimation, and full Bayesian posterior inference via Hamiltonian Monte Carlo (HMC).
+  * **Prior Specification as Statistical Regularization:** Evaluates uniform versus weakly informative Beta priors on item-error parameters, framing prior specification as a formal regularization device to mitigate boundary solutions and improve numerical stability in sparse latent-class models.
+  * **Latent-Class Recovery & Predictive Diagnostics:** Assesses parameter recovery, posterior uncertainty, and predictive adequacy on a five-attribute probability-and-statistics assessment using posterior predictive replications, item-level discrepancy checks, and root mean squared error (RMSE).
+
