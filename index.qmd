@@ -5,7 +5,7 @@ title: "Boting Zhang (张柏霆)"
 :::: {.columns}
 
 ::: {.column width="72%"}
-I am an undergraduate student majoring in mathematics and applied mathematics. I am currently an exchange student at the University of California, Berkeley. My home university is [Xiamen University Malaysia](https://www.xmu.edu.my/DOM).
+I am an undergraduate student majoring in Mathematics and Applied Mathematics. I am currently an exchange student at the University of California, Berkeley. My home university is [Xiamen University Malaysia](https://www.xmu.edu.my/DOM).
 
 I am generally interested in **High-Dimensional Statistics**, **Stochastic Processes**, **PDEs**, and **Computational Topology**, combining computational methods with empirical analysis.
 
@@ -31,14 +31,17 @@ My email is chambertin0821 at berkeley dot edu.
 Here are the research projects I am currently working on at the University of California, Berkeley. You may find details in [Research](projects.qmd):
 
 * **GRiD Project: Statistical Modeling for Multimodal Learning Analytics** — *ERDL Lab, UC Berkeley*
-  * *Supervised by [Ratih Ayu Apsari](https://bse.berkeley.edu/ratih-ayu-apsari)(School of Education, University of California, Berkleley)*
-
+  * Supervisors:<br>
+    *[Dr. Ratih Ayu Apsari](https://bse.berkeley.edu/ratih-ayu-apsari)* (Berkeley School of Education, University of California, Berkeley)<br>
+    *[Prof. Dor Abrahamson](https://bse.berkeley.edu/dor-abrahamson)* (Berkeley School of Education, University of California, Berkeley)
 
 <div style="height: 10px;"></div>
 
 * **Estimation Method Project: Diagnostic Classification Models (DCMs)** — *D-Lab, UC Berkeley*
-  * *Supervised by [Jonathon A. Pedroza (JP)](https://dlab.berkeley.edu/people/jonathan-pedroza-jp)(School of Education, University of California, Berkleley)*
-  
+  * Supervisor:<br> 
+  *[Dr. Jonathon A. Pedroza (JP)](https://dlab.berkeley.edu/people/jonathan-pedroza-jp)* (Berkeley School of Education, University of California, Berkeley)
+
+
 
 # Projects
 * **Tridiagonal Spline Systems \& Atmospheric $\text{CO}_2$ Modeling**
