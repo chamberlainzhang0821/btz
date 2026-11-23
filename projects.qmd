@@ -4,8 +4,10 @@ title: "Current Projects"
 
 Here are the research projects I am currently working on at the University of California, Berkeley:
 
-* **GRiD Project: Statistical Modeling for Multimodal Learning Analytics** — *ERDL Lab, UC Berkeley*
-  * *Supervised by [Ratih Ayu Apsari](https://bse.berkeley.edu/ratih-ayu-apsari)(School of Education, University of California, Berkleley)*
+* **[GRiD Project](https://edrl.berkeley.edu/projects/geometry-resources-in-dance-grid/): Statistical Modeling for Multimodal Learning Analytics** — *[Embodied Design Research Laboratory (ERDL) Lab](https://edrl.berkeley.edu/), UC Berkeley*
+  * Supervisors:<br>
+    *[Dr. Ratih Ayu Apsari](https://bse.berkeley.edu/ratih-ayu-apsari)* (Berkeley School of Education, UC Berkeley)<br>
+    *[Prof. Dor Abrahamson](https://bse.berkeley.edu/dor-abrahamson)* (Berkeley School of Education, UC Berkeley)<br>
   
   * **Multivariate Time-Series & Spectral Modeling:** Formulates parametrized eye-tracking recordings as regularized multivariate time series, applying autoregressive (AR/VAR) modeling, spectral analysis, and time-frequency decomposition to capture multi-scale dynamics in fixation rates and gaze kinematics.
  
@@ -15,9 +17,11 @@ Here are the research projects I am currently working on at the University of Ca
 
 <br>
 
-* **Estimation Method Project: Diagnostic Classification Models (DCMs)** — *D-Lab, UC Berkeley*
-  * *Supervised by [Jonathon A. Pedroza (JP)](https://dlab.berkeley.edu/people/jonathan-pedroza-jp)(School of Education, University of California, Berkleley)*
+* **[Estimation Method Project](https://github.com/jpedroza1228/estimation_methods): Diagnostic Classification Models (DCMs)** — *[D-Lab](https://dlab.berkeley.edu/), UC Berkeley*
+  * Supervisor:<br> 
+  *[Dr. Jonathon A. Pedroza (JP)](https://dlab.berkeley.edu/people/jonathan-pedroza-jp)* (Berkeley School of Education, UC Berkeley)
 
+  
   * **Conjunctive & Disjunctive Model Formulation:** Formulates and compares DINA (AND-rule) and DINO (OR-rule) diagnostic classification models across a $2^K$ latent attribute space induced by a prespecified $Q$-matrix, contrasting unrestricted item-specific slipping and guessing parameters against restricted common-error variants (rDINA and rDINO).
 
   * **Comparative Estimation & Bayesian Inference:** Expresses marginalized item responses as a finite-mixture likelihood and benchmarks Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP) estimation, and full Bayesian posterior inference via Hamiltonian Monte Carlo (HMC).
