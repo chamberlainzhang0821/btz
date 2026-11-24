@@ -30,7 +30,7 @@ My email is chambertin0821 at berkeley dot edu.
 
 Here are the research projects I am currently working on at the University of California, Berkeley. You may find details in [Research](projects.qmd):
 
-* **[GRiD Project](https://edrl.berkeley.edu/projects/geometry-resources-in-dance-grid/): Statistical Modeling for Multimodal Learning Analytics** — *[Embodied Design Research Laboratory (ERDL) Lab](https://edrl.berkeley.edu/), UC Berkeley*
+* **[GRiD Project](https://edrl.berkeley.edu/projects/geometry-resources-in-dance-grid/): Statistical Modeling for Multimodal Learning Analytics** — *[Embodied Design Research Laboratory (ERDL) Lab](https://edrl.berkeley.edu/people/boting-zhang/), UC Berkeley*
   * Supervisors:<br>
     *[Dr. Ratih Ayu Apsari](https://bse.berkeley.edu/ratih-ayu-apsari)* (Berkeley School of Education, UC Berkeley)<br>
     *[Prof. Dor Abrahamson](https://bse.berkeley.edu/dor-abrahamson)* (Berkeley School of Education, UC Berkeley)<br>
